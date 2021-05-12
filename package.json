@@ -37,7 +37,7 @@
     "redux-firestore": "^0.9.0",
     "request": "^2.88.0",
     "shortid": "^2.2.14",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "yup": "^0.27.0"
   },
   "devDependencies": {
